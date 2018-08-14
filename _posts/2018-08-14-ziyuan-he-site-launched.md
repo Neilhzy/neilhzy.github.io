@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: "Ziyuan He, Launches Site"
+title: "ziyuan-he-site-launched"
 date: 2018-08-14
 ---
 
