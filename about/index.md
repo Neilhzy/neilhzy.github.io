@@ -3,4 +3,4 @@ layout: default
 title: About Ziyuan He
 ---
 # About
-This is my story.
+I am 5th year PhD student at Tulane University.
