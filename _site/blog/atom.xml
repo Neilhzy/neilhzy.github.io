@@ -4,7 +4,7 @@
 	<title>Ziyuan He's Blog</title>
 	<link href="http://hankquinlan.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://hankquinlan.github.io/blog"/>
-	<updated>2018-09-05T15:39:44-07:00</updated>
+	<updated>2018-09-06T16:00:04-07:00</updated>
 	<id>http://hankquinlan.github.io/blog</id>
 	<author>
 		<name>Hank Quinlan</name>
@@ -13,11 +13,15 @@
 
 	
 		<entry>
-			<title>Ziyuan He, Hierarchical Agglomerative Clustering</title>
+			<title>Hierarchical Clustering for Cytokines Analysis</title>
 			<link href="http://hankquinlan.github.io/blog/2018/09/05/ziyuan-he-hierarchical-agglomerative-clustering"/>
 			<updated>2018-09-05T00:00:00-07:00</updated>
 			<id>http://hankquinlan.github.io/blog/2018/09/05/ziyuan-he-hierarchical-agglomerative-clustering</id>
-			<content type="html">
+			<content type="html">&lt;h2 id=&quot;hierarchical-clustering-has-been-widely-used-in-gene-expression&quot;&gt;Hierarchical Clustering has been widely used in gene expression.&lt;/h2&gt;
+&lt;p&gt;In this post, I try to use hierarchical clustering analysis to analyze the cytokines multi-plex ELISA assays.&lt;/p&gt;
+
+&lt;!-- ![Hierarchical plot](/images/Hierarchical clustering plot_outliers_filtered.png)
+Format: ![Alt Text](url) --&gt;
 </content>
 		</entry>
 	
