@@ -4,7 +4,11 @@
 	<title>Ziyuan He's Blog</title>
 	<link href="http://hankquinlan.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://hankquinlan.github.io/blog"/>
+<<<<<<< HEAD
 	<updated>2018-09-14T17:37:55-07:00</updated>
+=======
+	<updated>2018-09-08T17:59:06-07:00</updated>
+>>>>>>> 2529b8b9a41d44f27d134c1f5a1ff49ee404a564
 	<id>http://hankquinlan.github.io/blog</id>
 	<author>
 		<name>Hank Quinlan</name>
