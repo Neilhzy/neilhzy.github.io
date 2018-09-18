@@ -1,5 +1,7 @@
 ---
 layout: post
-title: "Ziyuan He, Launches Site"
-date: 2018-08-14
+title: "Moving to Davis"
+date: 2018-08-01
 ---
+I recently relocated to Davis, California. 
+![road trip](/images/Road_trip.jpg)
