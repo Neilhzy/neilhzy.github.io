@@ -4,11 +4,7 @@
 	<title>Ziyuan He's Blog</title>
 	<link href="http://hankquinlan.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://hankquinlan.github.io/blog"/>
-<<<<<<< HEAD
-	<updated>2018-09-14T17:37:55-07:00</updated>
-=======
-	<updated>2018-09-08T17:59:06-07:00</updated>
->>>>>>> 2529b8b9a41d44f27d134c1f5a1ff49ee404a564
+	<updated>2018-09-28T10:55:10-07:00</updated>
 	<id>http://hankquinlan.github.io/blog</id>
 	<author>
 		<name>Hank Quinlan</name>
@@ -17,24 +13,28 @@
 
 	
 		<entry>
-			<title>Hierarchical Clustering for Cytokines Analysis</title>
+			<title>Hierarchical Clustering Analysis for multiplex cytokines assay</title>
 			<link href="http://hankquinlan.github.io/blog/2018/09/05/ziyuan-he-hierarchical-agglomerative-clustering"/>
 			<updated>2018-09-05T00:00:00-07:00</updated>
 			<id>http://hankquinlan.github.io/blog/2018/09/05/ziyuan-he-hierarchical-agglomerative-clustering</id>
-			<content type="html">&lt;h2 id=&quot;hierarchical-clustering-has-been-widely-used-in-gene-expression&quot;&gt;Hierarchical Clustering has been widely used in gene expression.&lt;/h2&gt;
-&lt;p&gt;In this post, I try to use hierarchical clustering analysis to analyze the cytokines multi-plex ELISA assays.&lt;/p&gt;
+			<content type="html">&lt;h2 id=&quot;hierarchical-clustering-has-been-widely-used-in-analyzing-the-cluster-pattern-in-multivariable-dataset&quot;&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Hierarchical_clustering&quot;&gt;Hierarchical Clustering&lt;/a&gt; has been widely used in analyzing the cluster pattern in multivariable dataset.&lt;/h2&gt;
+&lt;p&gt;In this post, hierarchical clustering is applied to the data generated from cytokines multi-plex assays.&lt;/p&gt;
 
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Python syntax highlighting&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;s&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;!-- ![Hierarchical plot](/images/Hierarchical clustering plot_outliers_filtered.png)
 Format: ![Alt Text](url) --&gt;
 </content>
 		</entry>
 	
 		<entry>
-			<title>Ziyuan He, Launches Site</title>
-			<link href="http://hankquinlan.github.io/blog/2018/08/14/ziyuan-he-site-launched"/>
-			<updated>2018-08-14T00:00:00-07:00</updated>
-			<id>http://hankquinlan.github.io/blog/2018/08/14/ziyuan-he-site-launched</id>
-			<content type="html">
+			<title>Moving to Davis</title>
+			<link href="http://hankquinlan.github.io/blog/2018/08/01/ziyuan-he-site-launched"/>
+			<updated>2018-08-01T00:00:00-07:00</updated>
+			<id>http://hankquinlan.github.io/blog/2018/08/01/ziyuan-he-site-launched</id>
+			<content type="html">&lt;p&gt;I recently relocated to Davis, California. 
+&lt;img src=&quot;/images/Road_trip.jpg&quot; alt=&quot;road trip&quot; /&gt;&lt;/p&gt;
 </content>
 		</entry>
 	
