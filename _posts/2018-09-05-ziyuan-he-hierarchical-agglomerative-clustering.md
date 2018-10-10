@@ -8,9 +8,6 @@ date: 2018-09-28
 In this post, *hierarchical clustering analysis* is applied to the data generated from [cytokines multi-plex assays](https://www.thermofisher.com/order/catalog/product/LPC0005M).  
 First thing first, for my immunologist fellows, what is hierarchical clustering?
 
-```python
-s = "Python syntax highlighting"
-print s
-```
+
 <!-- ![Hierarchical plot](/images/Hierarchical clustering plot_outliers_filtered.png)
 Format: ![Alt Text](url) -->
