@@ -4,13 +4,13 @@ title: About Ziyuan He
 ---
 # About
 <!--
-I am a experimental Immunologist by training. I use non-human primates model to study inflammation in diseases condition or during aging.
+I am a experimental Immunologist by training. In lab, I use non-human primates model to study inflammation in diseases condition or during aging.
 My precious work focus on neutrophils:
 <!--[![Neutrophils](http://img.youtube.com/vi/Z_mXDvZQ6dU/0.jpg)](http://www.youtube.com/watch?v=Z_mXDvZQ6dU "Neutrophils engulf bacteria")
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z_mXDvZQ6dU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-But,... (since you haven't closed the windows by now)
-I am also in love with data. Like my boss always says: 'Data will tell.'
+But,
+I am also obsessed with data. Cleaning, modeling, visualization, you name it, but the best part is to dig a story out of the "messy" and
 -->
 
 You come too early. Still working on this site.
