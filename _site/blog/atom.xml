@@ -4,7 +4,7 @@
 	<title>Ziyuan He's Blog</title>
 	<link href="http://hankquinlan.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://hankquinlan.github.io/blog"/>
-	<updated>2018-09-28T10:55:10-07:00</updated>
+	<updated>2019-02-04T16:56:07-08:00</updated>
 	<id>http://hankquinlan.github.io/blog</id>
 	<author>
 		<name>Hank Quinlan</name>
@@ -14,15 +14,13 @@
 	
 		<entry>
 			<title>Hierarchical Clustering Analysis for multiplex cytokines assay</title>
-			<link href="http://hankquinlan.github.io/blog/2018/09/05/ziyuan-he-hierarchical-agglomerative-clustering"/>
-			<updated>2018-09-05T00:00:00-07:00</updated>
-			<id>http://hankquinlan.github.io/blog/2018/09/05/ziyuan-he-hierarchical-agglomerative-clustering</id>
+			<link href="http://hankquinlan.github.io/blog/2018/09/28/ziyuan-he-hierarchical-agglomerative-clustering"/>
+			<updated>2018-09-28T00:00:00-07:00</updated>
+			<id>http://hankquinlan.github.io/blog/2018/09/28/ziyuan-he-hierarchical-agglomerative-clustering</id>
 			<content type="html">&lt;h2 id=&quot;hierarchical-clustering-has-been-widely-used-in-analyzing-the-cluster-pattern-in-multivariable-dataset&quot;&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Hierarchical_clustering&quot;&gt;Hierarchical Clustering&lt;/a&gt; has been widely used in analyzing the cluster pattern in multivariable dataset.&lt;/h2&gt;
-&lt;p&gt;In this post, hierarchical clustering is applied to the data generated from cytokines multi-plex assays.&lt;/p&gt;
+&lt;p&gt;In this post, &lt;em&gt;hierarchical clustering analysis&lt;/em&gt; is applied to the data generated from &lt;a href=&quot;https://www.thermofisher.com/order/catalog/product/LPC0005M&quot;&gt;cytokines multi-plex assays&lt;/a&gt;.&lt;br /&gt;
+First thing first, for my immunologist fellows, what is hierarchical clustering?&lt;/p&gt;
 
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Python syntax highlighting&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;s&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;!-- ![Hierarchical plot](/images/Hierarchical clustering plot_outliers_filtered.png)
 Format: ![Alt Text](url) --&gt;
 </content>
